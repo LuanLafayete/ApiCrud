@@ -5,8 +5,6 @@
 
 >Bootcamp Pottencial Digital Innovation One
 
-[🔗 Clique aqui para acessar](https://luanlafayete.github.io/ApiCrud/)
-
 ## 💻 Tecnologias 
 - C#
 - Entity Framework Core
